@@ -56,7 +56,7 @@ ARCore-supported Android device or iOS device with ARKit
 
 Installation
 bash
-git clone https://github.com/smeddum/didactic-octo-robot.git
+git clone https://github.com/smedum/didactic-octo-robot.git
 cd didactic-octo-robot
 # Open in Unity and deploy to your device
 🤝 Contributing
@@ -79,4 +79,4 @@ Paul Anderson - Initial work - smeddum
 Made with ❤️ for the future of Scottish Gaelic
 
 # didactic-octo-robot
-Augmented Reality Gaelic Learning Game - Making Scottish Gaelic accessible through interactive AR technology. Live demo: smeddum.github.io/didactic-octo-robot Ready to launch "didactic-octo-robot" into the world? This description positions it perfectly as both an educational tool AND a sustainable business! 🏴󠁧󠁢󠁳󠁣󠁴󠁿🚀
+Augmented Reality Gaelic Learning Game - Making Scottish Gaelic accessible through interactive AR technology. Live demo: smedum.github.io/didactic-octo-robot Ready to launch "didactic-octo-robot" into the world? This description positions it perfectly as both an educational tool AND a sustainable business! 🏴󠁧󠁢󠁳󠁣󠁴󠁿🚀
