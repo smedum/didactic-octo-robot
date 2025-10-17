@@ -1,82 +1,47 @@
-Didactic Octo Robot: AR Gaelic Learning 🏴󠁧󠁢󠁳󠁣󠁴󠁿✨
-Making Scottish Gaelic accessible through interactive Augmented Reality technology.
+# Gaelic AR Adventure 🏴󠁧󠁢󠁳󠁣󠁴󠁿✨
+**Learn Scottish Gaelic through interactive Augmented Reality in your web browser**
 
-https://img.shields.io/badge/DEMO-LIVE%2520NOW-brightgreen?style=for-the-badge
-https://img.shields.io/badge/License-MIT-yellow.svg
+[![Demo](https://img.shields.io/badge/PLAY-NOW-brightgreen?style=for-the-badge)](https://smedum.github.io/didactic-octo-robot) [![Web AR](https://img.shields.io/badge/Web-AR-orange?style=for-the-badge)](https://aframe.io)
 
-🚀 Live Demo
-Experience it now: smeddum.github.io/didactic-octo-robot
+## 🚀 Live Demo
+**Play instantly:** [smedum.github.io/didactic-octo-robot](https://smedum.github.io/didactic-octo-robot)
 
-No download required - works on AR-supported mobile devices
+*No app install required - works on any AR-capable mobile device with a browser*
 
-📖 About The Project
-Didactic Octo Robot transforms Scottish Gaelic learning from textbook memorization into an immersive, interactive experience. Using Augmented Reality, we bring Gaelic words and phrases to life in your physical environment.
+## 🎮 What It Actually Does
 
-Why This Matters
-Preservation: Helps revitalize Scottish Gaelic, a culturally significant but vulnerable language
+**Point your camera and collect floating Gaelic words!**
 
-Accessibility: Makes learning engaging for digital natives and visual learners
+- **AR Word Hunt**: Find and tap floating 3D words in your physical space
+- **5 Core Gaelic Phrases**: 
+  - "madainn mhath" (good morning) ☀️
+  - "tapadh leat" (thank you) 🙏  
+  - "slàinte" (cheers) 🍻
+  - "cù" (dog) 🐕
+  - "cat" (cat) 🐈
+- **Interactive Collection**: Track your progress as you learn
+- **Native Pronunciation**: Phonetic guides for authentic speaking
 
-Innovation: Combines cutting-edge AR technology with language education
+## 🛠️ Real Tech Stack
+- **A-Frame** - WebXR framework for 3D/AR
+- **AR.js** - Markerless augmented reality
+- **Pure HTML/CSS/JS** - No Unity, runs in browser
+- **Mobile-First** - Optimized for smartphone cameras
 
-🛠️ Built With
-Unity - Game engine
+## 🎯 How to Play
+1. **Open on your phone** (Chrome/Safari)
+2. **Allow camera access** 
+3. **Point at a flat surface** (table, floor)
+4. **Tap the floating Gaelic words** to collect them
+5. **Track your progress** in the collection screen
 
-ARFoundation - Augmented Reality framework
+## 🌟 Why This Matters
+- **Instant Access**: No app store, no downloads
+- **Cultural Preservation**: Making Gaelic engaging for new learners
+- **Web Innovation**: Pushing what's possible in browser-based AR
 
-C# - Primary programming language
+## 🚀 Getting Started
 
-🎮 Features
-Interactive AR Objects: Tap, rotate, and interact with 3D Gaelic vocabulary
-
-Native Pronunciation: Audio recordings from native speakers
-
-Gamified Learning: Earn points for correct translations and interactions
-
-Progress Tracking: Monitor your learning journey
-
-💡 Business Vision
-While fully open-source, this project explores sustainable models for educational technology:
-
-Potential Revenue Streams:
-
-Premium advanced lessons and dialects
-
-Institutional licenses for schools
-
-Custom AR content development for other endangered languages
-
-Partnership opportunities with cultural organizations
-
-🚀 Getting Started
-Prerequisites
-Unity 2022.3 LTS or later
-
-ARCore-supported Android device or iOS device with ARKit
-
-Installation
-bash
+```bash
 git clone https://github.com/smedum/didactic-octo-robot.git
-cd didactic-octo-robot
-# Open in Unity and deploy to your device
-🤝 Contributing
-We love contributions! Whether you're a:
-
-Developer wanting to add features
-
-Gaelic speaker who can help with translations
-
-Educator with ideas for lessons
-
-Please read our contributing guidelines for details.
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-👥 Team
-Paul Anderson - Initial work - smeddum
-
-Made with ❤️ for the future of Scottish Gaelic
-
-# didactic-octo-robot
-Augmented Reality Gaelic Learning Game - Making Scottish Gaelic accessible through interactive AR technology. Live demo: smedum.github.io/didactic-octo-robot Ready to launch "didactic-octo-robot" into the world? This description positions it perfectly as both an educational tool AND a sustainable business! 🏴󠁧󠁢󠁳󠁣󠁴󠁿🚀
+# Open index.html in a web server
