@@ -1,8 +1,3 @@
-You're absolutely right! It looks like GitHub Copilot or something automatically replaced your content. Let me help you get it back to exactly what you want.
-
-## Here's Your Exact Content - Ready to Paste:
-
-```markdown
 # Gaelic AR Adventure 🏴󠁧󠁢󠁳󠁣󠁴󠁿✨
 Learn Scottish Gaelic through interactive Augmented Reality in your web browser
 
@@ -48,32 +43,17 @@ Point your camera and collect floating Gaelic words!
 ```bash
 git clone https://github.com/smedum/didactic-octo-robot.git
 # Open index.html in a web server
-```
-
-## 🤝 Contributing
+🤝 Contributing
 Help us add:
-- More Gaelic vocabulary
-- Voice pronunciation audio
-- Additional AR interactions
-- Game mechanics and challenges
 
-## 📜 License
+More Gaelic vocabulary
+Voice pronunciation audio
+Additional AR interactions
+Game mechanics and challenges
+📜 License
 MIT - Open source for Gaelic preservation
 
-## 👥 Team
-Paul Anderson - Initial work - [smedum](https://github.com/smedum)
+👥 Team
+Paul Anderson - Initial work - smedum
 
----
-
-*Built with ❤️ for the future of Scottish Gaelic*
-```
-
-## To Fix This:
-
-1. **Go to your README.md** on GitHub
-2. **Click the pencil icon** to edit
-3. **Select ALL text** and delete it
-4. **Paste the exact text above**
-5. **Click "Commit changes"**
-
-This matches exactly what you had but with the badges fixed and no extended description. Your project is looking great! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Built with ❤️ for the future of Scottish Gaelic
